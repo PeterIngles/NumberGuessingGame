@@ -1,0 +1,23 @@
+Group project: we definitely need a TODO!
+
+1. Go over the README.md and discuss!
+
+2. Work on HTML
+    - Create input fields (x3) {x}
+        - Names 
+        - Number to guess
+    - Create buttons
+        - 'Submit' button {x}
+        - 'Restart' button
+    - Create output fields (x3)
+        -Perhaps create a table to display this? 
+            - Counter to show round of guesses (x3)
+            - Hardcode some data into table
+        
+
+
+3. Get logic together
+    - Create onReady to generate random number
+        - Checks inputs (numbers we submitted) against RNG
+        -
+    
